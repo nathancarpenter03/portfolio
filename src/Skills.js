@@ -28,8 +28,7 @@ class Skills extends Component {
                                     <div className="image"><i className="fa fa-book"></i></div>
                                     <div className="info">
                                         <h3 className="title">Libraries and Frameworks </h3>
-                                        <p>React.js, Node.js, Express.js, Bootstrap, Bulma</p>
-                    
+                                        <p>React.js, Node.js, Express.js, jQuery, Bootstrap, Bulma</p>
                                     </div>
                                 </div>
                             </div> 

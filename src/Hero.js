@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 
-
 class Hero extends Component {
-
 
     render() {
         return (
@@ -16,7 +14,7 @@ class Hero extends Component {
                                 <h1>INDIANAPOLIS BASED<br/>FRONT END DEVELOPER</h1>
                                 <h3>with a passion for seamless user experience<br/>and beautifully clean and responsive design</h3>
                             </hgroup>
-                            <button className="btn btn-hero btn-lg" role="button">Contact me</button> 
+                            <a href="https://www.linkedin.com/in/nathan-carpenter/"><button className="btn btn-hero btn-lg" role="button">Contact me</button></a>
                             <div className="arrow-down">
                               <span className="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
                             </div>
